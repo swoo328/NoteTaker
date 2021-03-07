@@ -11,10 +11,11 @@ I WANT to be able to delete notes I've written before
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Screenshot
-
+![](localhost_3000_.png)
+![](screenshot2.png)
 
 # Github Repository 
 https://github.com/swoo328/NoteTaker
 
 # Heroku Deployed Application
-https://notingtake.herokuapp.com/notes
+https://notingtake.herokuapp.com/
